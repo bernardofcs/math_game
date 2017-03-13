@@ -6,5 +6,4 @@ class Player
   def lose_life
     @lives--
   end
-  
 end
